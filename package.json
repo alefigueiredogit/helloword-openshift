@@ -1,0 +1,19 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "app.js",
+  "scripts": {
+    "test": "teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefigueiredogit/helloword-openshift.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alefigueiredogit/helloword-openshift/issues"
+  },
+  "homepage": "https://github.com/alefigueiredogit/helloword-openshift#readme"
+}
